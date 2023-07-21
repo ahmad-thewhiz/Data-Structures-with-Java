@@ -1,10 +1,10 @@
 # Data-Structures-with-Java
 
 What is Data Structures?
-The way to organise data in main memory or ram. It is a way of arranging data on a computer so that it can be accessed and updated efficiently. A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data.
+- The way to organise data in main memory or ram. It is a way of arranging data on a computer so that it can be accessed and updated efficiently. A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data.
 
 What is Algorithm?
-Sequence of steps written to solve a problem.
+- Sequence of steps written to solve a problem.
 
 Why DSA?
 * Makes you a better Software Developer by making you write time and space efficient codes.
